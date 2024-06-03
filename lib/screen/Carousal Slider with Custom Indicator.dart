@@ -1,9 +1,13 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:media_player_example/provider/slider_provider.dart';
+
+
 import 'package:provider/provider.dart';
 
+import '../provider/slider_provider.dart';
 import '../utils/list.dart';
+
+
 
 final CarouselController _controller = CarouselController();
 
