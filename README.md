@@ -21,7 +21,7 @@
 
 
 
-3. **Implement the Parallax Effect:**
+# Parallax Effect
    Edit the `lib/main.dart` file to include the parallax effect.
 
    ```dart
