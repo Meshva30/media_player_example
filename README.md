@@ -129,17 +129,19 @@
 ### ScreenShots
 
 <p align='center'>
-  <img src='' width=240>
-  <img src='' width=240>
-  <img src='' width=240>
-  <img src='' width=240>
-  <img src='' width=240>
+  <img src='https://github.com/Meshva30/media_player_example/assets/136339359/ab787e77-01d8-4382-8776-3ba2b69d45ce' width=240>
+  <img src='https://github.com/Meshva30/media_player_example/assets/136339359/de9ee28e-764f-4886-b400-6bf704af5015' width=240>
+  <img src='https://github.com/Meshva30/media_player_example/assets/136339359/9fc9536a-b320-47f9-ae22-411ea9ba1c3c' width=240>
+  <img src='https://github.com/Meshva30/media_player_example/assets/136339359/a0979741-8886-4fb0-9679-533ccc2931f7' width=240>
+
  
 </p>
 
+
 ### video
 
-https://github.com/Aksharpatel06/media_player_task/assets/143181114/419d2030-b6b3-4b54-b424-9dbc893a22f6
+https://github.com/Meshva30/media_player_example/assets/136339359/04b2673d-e0d4-41f0-90e1-5886fe83bbf8
+
 
 
 
